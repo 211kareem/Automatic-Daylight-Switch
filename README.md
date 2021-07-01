@@ -2,8 +2,10 @@
 Simple IoT project code using Master of Things framework
 
 Description:
+
 This project help businesses, governments, and consumers to connect to their Light Sensor and Calculate Light Intensity remotely, If the light intensity is low or equal to zero, they can control the smart Lamp to open it or close it in the opposite situation.
 
+![Screenshot 2021-07-01 222532](https://user-images.githubusercontent.com/48871160/124186213-44541500-dabc-11eb-9e94-cbbaf7b2072c.png)
 
 
 Implementation:
